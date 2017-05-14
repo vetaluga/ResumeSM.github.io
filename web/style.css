@@ -242,7 +242,7 @@ body {
   position: absolute;
   left: 210px;
   top: -10px;
-  width: 300px;
+  width: 350px;
   line-height: 1.9;
   white-space: pre-wrap;
 }
@@ -258,7 +258,7 @@ body {
 .container {
   padding: 120px 0 0 0;
   position: relative;
-  width: 1306px;
+  width: 1366px;
   height: 620px;
 }
 
@@ -266,7 +266,7 @@ body {
 .left-block {
   float: left;
   margin-left: 31px;
-  width: 660px;
+  width: 630px;
 }
 
 .right-block {
