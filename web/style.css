@@ -18,6 +18,8 @@ body {
   margin-top: 135px;
   background: url("icon/sv.png") no-repeat;
   background-size: 25px;
+  line-height: 25px;
+  font-size: 13px;
 }
 
 .number-phone {
@@ -26,6 +28,8 @@ body {
   margin-top: 10px;
   background: url("icon/phone.png") no-repeat;
   background-size: 25px;
+  line-height: 25px;
+  font-size: 15.5px;
 }
 
 .photo{
@@ -70,10 +74,12 @@ body {
   .email{
     margin: 10px auto 0 auto;
     width: 300px;
+    font-size: 16px;
   }
   .number-phone {
     margin: 10px auto 0 auto;
     width: 300px;
+    font-size: 16px;
   }
   .photo{
     margin: 0 auto;
@@ -109,11 +115,11 @@ body {
 }
 
 .time-block{
-  padding: 15px 5px 15px 45px;
+  padding: 15px 5px 15px 40px;
   font-size: 12px;
   background: #fa5559;
   color: #fff;
-  width: 200px;
+  width: 188px;
   position: relative;
 }
 
@@ -137,7 +143,7 @@ body {
 }
 
 .company{
-  width: 230px;
+  width: 188px;
 }
 
 .indent{
@@ -147,6 +153,7 @@ body {
 @media only screen and (max-width: 991px){
   .company{
     margin-left: 38%;
+    width: 230px;
   }
 
   .indent{
@@ -155,7 +162,7 @@ body {
 }
 
 .first-job{
-  width: 230px;
+  width: 229px;
 }
 
 @media only screen and (max-width: 767px){
