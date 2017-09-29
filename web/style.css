@@ -39,7 +39,7 @@ body {
 .greeting {
   position: absolute;
   top: -3px;
-  left: -90px;
+  left: -80px;
   color: #fa5559;
   font-size: 20px;
   transform: rotate(-5deg);
@@ -48,7 +48,7 @@ body {
 .little-decoration {
   position: absolute;
   top: 15px;
-  left: -75px;
+  left: -70px;
   margin-top: 10px;
   width: 75px;
   height: 50px;
@@ -169,10 +169,10 @@ body {
 
 @media only screen and (max-width: 405px){
   .first-job{
-    margin-left: 33%;
+    margin-left: 30%;
   }
   .company{
-    margin-left: 33%;
+    margin-left: 30%;
   }
 }
 /*EXPIERENCE END*/
@@ -377,10 +377,10 @@ body {
   text-align: center;
   }
 .language-container{
-  width: 345px;
+  width: 328px;
 }
 .language-skills{
-  width: 330px;
+  width: 328px;
 }
 .hr::after{
   content: '';
